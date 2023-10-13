@@ -1,7 +1,6 @@
 Eye Ball
 
   Description:
-  
         This HTML document creates a simple interactive face with moving eyes that follow the user's mouse cursor. 
         The face consits of a yellow circle with two eyes, and the eyes' black pupils follow the mouse movement.
         
